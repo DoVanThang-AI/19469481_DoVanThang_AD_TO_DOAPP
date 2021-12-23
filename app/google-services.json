@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164113452483",
+    "project_id": "to-do-list-app-49e9f",
+    "storage_bucket": "to-do-list-app-49e9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164113452483:android:8993f1be151e2244a48176",
+        "android_client_info": {
+          "package_name": "com.a19469481_DoVanThang_AD_ToDoApp.ToDoApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164113452483-plmppnbsrgatik4445834p2cm8d7h74j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOKEDlGh5a-273geDvXzIK7AI7YA_aB6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164113452483-plmppnbsrgatik4445834p2cm8d7h74j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
